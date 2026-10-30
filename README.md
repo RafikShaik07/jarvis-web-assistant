@@ -87,7 +87,3 @@ Open `index.html` in Chrome or Edge. No installation or build step is needed.
 ## Author
 
 **Shaik Rafik**
-
-- GitHub: [RafikShaik07](https://github.com/RafikShaik07)
-- LinkedIn: [shaik-rafik](https://www.linkedin.com/in/shaik-rafik-79a7253a9/)
-- Portfolio: [shaikrafikportfolio.vercel.app](https://shaikrafikportfolio.vercel.app/)
