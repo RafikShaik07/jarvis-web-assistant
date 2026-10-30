@@ -1,5 +1,3 @@
-# jarvis-web-assistant
-Voice-activated AI assistant built with JavaScript, using the Web Speech API and Wikipedia API.
 # Jarvis Web – Voice Assistant
 
 A voice-activated assistant that runs entirely in the browser. Speak or type a question or command, and Jarvis answers aloud, opens websites, plays songs, searches the web and does basic maths.
@@ -23,7 +21,7 @@ A voice-activated assistant that runs entirely in the browser. Speak or type a q
 ## Screenshots
 
 | Light theme | Dark theme |
-|---|---|---|
+|---|---|
 | ![Light theme](screenshots/light.png) | ![Dark theme](screenshots/dark.png) |
 
 ## Example commands
@@ -89,3 +87,7 @@ Open `index.html` in Chrome or Edge. No installation or build step is needed.
 ## Author
 
 **Shaik Rafik**
+
+- GitHub: [RafikShaik07](https://github.com/RafikShaik07)
+- LinkedIn: [shaik-rafik](https://www.linkedin.com/in/shaik-rafik-79a7253a9/)
+- Portfolio: [shaikrafikportfolio.vercel.app](https://shaikrafikportfolio.vercel.app/)
