@@ -2,7 +2,7 @@
 
 A voice-activated assistant that runs entirely in the browser. Speak or type a question or command, and Jarvis answers aloud, opens websites, plays songs, searches the web and does basic maths.
 
-**Live demo:** [https://YOUR-VERCEL-LINK.vercel.app](https://YOUR-VERCEL-LINK.vercel.app)
+**Live demo:** (https://jarvis-web-assistant-two.vercel.app/)
 
 ![Jarvis home screen](screenshots/home.png)
 
