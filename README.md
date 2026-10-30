@@ -22,7 +22,7 @@ A voice-activated assistant that runs entirely in the browser. Speak or type a q
 
 ## Screenshots
 
-| Light theme | Listening | Dark theme |
+| Light theme | Dark theme |
 |---|---|---|
 | ![Light theme](screenshots/light.png) | ![Dark theme](screenshots/dark.png) |
 
