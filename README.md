@@ -24,7 +24,7 @@ A voice-activated assistant that runs entirely in the browser. Speak or type a q
 
 | Light theme | Listening | Dark theme |
 |---|---|---|
-| ![Light theme](screenshots/light.png) | ![Listening](screenshots/listening.png) | ![Dark theme](screenshots/dark.png) |
+| ![Light theme](screenshots/light.png) | ![Dark theme](screenshots/dark.png) |
 
 ## Example commands
 
